@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 
 <!--
 **gobuig00/gobuig00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gobuig00&theme=dark&show_icons=true)
+--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gobuig00)](https://solved.ac/gobuig00/)
+--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gobuig00&layout=Demo&theme=dark)
