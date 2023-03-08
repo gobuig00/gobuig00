@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 --
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gobuig00)](https://solved.ac/gobuig00/)
 --
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gobuig00&layout=Demo&theme=dark)
